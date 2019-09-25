@@ -43,7 +43,7 @@
     "restler": "^3.4.0",
     "xmldoc": "^1.1.2"
   },
-  "author": "jamescornett",
+  "author": "pradeepmouli",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jamescornett/homebridge-isy-js/issues"
